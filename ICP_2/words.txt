@@ -1,0 +1,75 @@
+Python Course
+Deep Learning Course
+Deep Learning Courses
+Python Courses
+Hey Hello Here
+
+python : 2
+
+course : 2
+
+deep : 2
+
+learning : 2
+
+courses : 2
+
+hey : 1
+
+hello : 1
+
+here : 1
+
+python : 3
+
+course : 3
+
+deep : 3
+
+learning : 3
+
+courses : 3
+
+hey : 2
+
+hello : 2
+
+here : 2
+
+ : 8
+
+: : 8
+
+2 : 5
+
+1 : 3
+
+python : 4
+
+course : 4
+
+deep : 4
+
+learning : 4
+
+courses : 4
+
+hey : 3
+
+hello : 3
+
+here : 3
+
+ : 21
+
+: : 21
+
+2 : 9
+
+1 : 4
+
+3 : 6
+
+8 : 2
+
+5 : 1
